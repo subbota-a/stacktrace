@@ -1,0 +1,12 @@
+{
+    "$schema": "https://raw.githubusercontent.com/microsoft/vcpkg-tool/main/docs/vcpkg.schema.json",
+    "name": "test",
+    "dependencies": [
+        "boost-config",
+        "boost-predef",
+        "boost-core",
+        "boost-container-hash",
+        "boost-assert",
+        "libbacktrace"
+    ]
+}
